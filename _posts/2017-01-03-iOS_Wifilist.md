@@ -8,17 +8,6 @@ tag:
 　WINNER（위너）是韩国YG Entertainment于2014年推出的男子组合，先后由姜昇润、金秦禹、李昇勋、宋旻浩、南太铉五名成员组成。
 
 2014年8月14日发行首张正规专辑《2014 S/S》；8月17日通过《SBS人气歌谣》正式出道；9月10日发行专辑《2014 S/S-Japan Collection-》在日本出道。2016年2月1日发布迷你专辑《EXIT:E》。11月18日，南太铉因心理健康问题与经纪公司商讨后决定解除合约、退队。2017年4月4日，发行专辑《FATE NUMBER FOR》；8月4日发布专辑《OUR TWENTY FOR》。2018年1月，获得第32届金唱片奖音源部门本奖。乐队于2018年4月4日回归，时隔4年再发正规专辑。
-<ul class="lemmaWgt-secondsKnow-gallery" style="opacity: 1;"><li data-mediaid="mda-m8hU7ehu4iIlSTE6" data-secondid="18533" data-position="0" data-playnum="204095">
-<a href="javascript:;">
-<img src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D400/sign=3e50053229738bd4c421b3319189876c/42166d224f4a20a4a2c7462897529822730ed000.jpg">
-<span class="video-shadow"></span>
-<span class="video-play"><em class="cmn-icon cmn-icons cmn-icons_videoPlayer-play"></em></span>
-<span class="video-title" title="WINNER">
-<span class="video-title-content">WINNER</span>
-<span class="video-title-vv"><em class="wiki-lemma-icons wiki-lemma-icons_eye"></em>20.4w</span>
-</span>
-</a>
-</li></ul>
 ### 基本信息
 现任成员 :	金振宇	李胜勋	宋闵浩	南泰铉	姜胜允
 <img class="lb_mainimg" unselectable="on" alt="" data-link="http://star.ettoday.net/news/982254" data-imgid="a8edd0a62eca86de85ffde0b2fac54e6" data-src="http://p0.so.qhmsg.com/t01a50250dc59d021ef.jpg" src="http://cdn2.ettoday.net/images/2707/d2707705.jpg" style="top: 0px; opacity: 1; width: 518.675px; height: 287px; left: 0px;">
@@ -35,12 +24,12 @@ tag:
 2017年4月4日，发行专辑《FATE NUMBER FOR》，专辑收录《FOOL》和《Really Really》两首歌曲，其中《Really Really》是一首轻快舞曲[13]。4月8日，出道后WINNER首次参加音乐节目《音乐中心》，正式回归乐坛。《FATE NUMBER FOR》获得“iTunes专辑榜单”二十一个地区第一名并进入了APPLE MUSIC ‘Best of the Week’。 5月31日《FATE NUMBER FOR》在日本发行，这标志着WINNER正式进军日本市场[14]。8月4日发布专辑《OUR TWENTY FOR》。该专辑的主打歌为《LOVE ME LOVE ME》和《ISLAND》。《ISLAND》是以“岛”主题的Tropical风格舞曲，姜昇润、宋旻浩、李昇勋参与了作词，姜昇润还与YG制作人FUTURE BOUNCE、Bekuh BOOM一同参与作曲。11月7日，全体参与的tvN电视台综艺节目《花样青春 WINNER篇》首播。[15]
 
 2018年1月4日，根据Gaon Chart公开的周间流媒数据，《REALLY REALLY》的音源累计播放量突破了一亿次，成为2017年发布歌曲的男女组合中唯一一个在榜播放量突破一亿的组合。[16]1月10日，WINNER出席第32届金唱片奖颁奖礼，获得该届金唱片奖音源部门本奖。乐队于2018年4月4日回归，时隔4年再发正规专辑。[1]
-### 
+### 高清壁纸
+
 <img class="lb_mainimg" unselectable="on" alt="" data-link="http://enews.tw/article/931446" data-imgid="db5fafae020d69565a52dfb269fda6e3" data-src="http://p1.so.qhimgs1.com/t01865a6b9aa07a67b1.jpg" src="http://api.wownews.tw/attachments/558fd617913b0c11001d003d/2017/10/26/c8ab1d50417019cff502f2a52bea3c08.jpg" style="top: 0px; opacity: 1; width: 445.465px; height: 287px; left: 0px;">
 
 
 
-###
 
 在操作过程或者文章有问题的话欢迎在 [原文](http://baixin.io/2017/01/iOS_Wifilist/) 里提问或指正。
 
