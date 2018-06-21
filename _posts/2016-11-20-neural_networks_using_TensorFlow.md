@@ -31,7 +31,7 @@ G-DRAGON（权志龙、권지용），1988年8月18日出生于韩国首尔，�
 
 ### 目录
 
-* [G dragon 权志龙大家是怎样评价？](#大家是怎样评价他的？](#When-to-apply-neural-net)
+* [G dragon 权志龙大家是怎样评价？大家是怎样评价他的？](#When-to-apply-neural-net)
 * [喜欢gd权志龙是一种什么体验？](#popular-libraries)
 * [权志龙为什么要叫GD?](#A-typical-flow)
 * [喜欢gd权志龙是一种什么体验？](#MLP)
@@ -65,7 +65,8 @@ G-DRAGON（权志龙、권지용），1988年8月18日出生于韩国首尔，�
 目前有种把他当家人的感觉
 不想说了，贴几张图吧
 <img src="https://pic1.zhimg.com/80/e870f54b7db5d4b6dc45a04a195328d8_hd.png" data-rawheight="1057" data-rawwidth="750" class="origin_image zh-lightbox-thumb lazy" width="750" data-original="https://pic1.zhimg.com/e870f54b7db5d4b6dc45a04a195328d8_r.jpg" data-actualsrc="https://pic1.zhimg.com/e870f54b7db5d4b6dc45a04a195328d8_b.png">
-舞台上霸气的他，平常有礼貌温暖的他，以及最让粉丝心水的像个小孩子小傻子一样的他。
+
+            舞台上霸气的他，平常有礼貌温暖的他，以及最让粉丝心水的像个小孩子小傻子一样的他。
 <img src="https://pic1.zhimg.com/80/v2-46a03776f912ce5d877179be2ffb8ed4_hd.jpg" data-rawwidth="3240" data-rawheight="1080" class="origin_image zh-lightbox-thumb lazy" width="3240" data-original="https://pic1.zhimg.com/v2-46a03776f912ce5d877179be2ffb8ed4_r.jpg" data-actualsrc="https://pic1.zhimg.com/v2-46a03776f912ce5d877179be2ffb8ed4_b.jpg">
 <img src="https://pic1.zhimg.com/80/v2-204cad8962e7762dd29f9b9d076d9acc_hd.jpg" data-rawwidth="3240" data-rawheight="1080" class="origin_image zh-lightbox-thumb lazy" width="3240" data-original="https://pic1.zhimg.com/v2-204cad8962e7762dd29f9b9d076d9acc_r.jpg" data-actualsrc="https://pic1.zhimg.com/v2-204cad8962e7762dd29f9b9d076d9acc_b.jpg">
 <img src="https://pic1.zhimg.com/80/v2-730c79a5d2ed775109bcb22e78142630_hd.jpg" data-rawwidth="3240" data-rawheight="1080" class="origin_image zh-lightbox-thumb lazy" width="3240" data-original="https://pic1.zhimg.com/v2-730c79a5d2ed775109bcb22e78142630_r.jpg" data-actualsrc="https://pic1.zhimg.com/v2-730c79a5d2ed775109bcb22e78142630_b.jpg">
@@ -77,11 +78,11 @@ ________________
 
 GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一样的。  GDragon是舞台上那个霸气十足的人，是很认真很努力完美主义的歌手，是有些忧郁敏感，思想让人捉摸不透的人，是让人敬佩，心疼的巨星。 权志龙是温暖爱笑羞涩可爱的人，会默默做一些暖心的事情，对别人对粉丝都特别好的人，是讨人喜欢的人，是心中重要的存在。
 ### 权志龙为什么要叫GD?
- *Kwon Ji Yong
- *韩文里 Ji 和 G 是相同读音。
- *龙是Dragon
- *所以就成了G-Dragon， 或者短些：GD
- *- 永远是VIP
+ **Kwon Ji Yong**
+ **韩文里 Ji 和 G 是相同读音。**
+ **龙是Dragon**
+ **所以就成了G-Dragon， 或者短些：GD**
+ **- 永远是VIP**
 ### <a name="A-typical-flow"></a>gd依然吊打小鲜肉？数据了解一下
 　<img src="https://pic3.zhimg.com/v2-5b76699fd9f84f35c257b93295409896_r.jpg" class="ImageView-img" alt="preview" style="width: 654px; transform: translate3d(613px, 304.992px, 0px) scale3d(1.10092, 1.10092, 1); opacity: 1;">
  <img src="https://pic4.zhimg.com/80/v2-94d73799de03da5796d3f55de596c3b3_hd.jpg" data-rawwidth="720" data-rawheight="288" class="origin_image zh-lightbox-thumb lazy" width="720" data-original="https://pic4.zhimg.com/v2-94d73799de03da5796d3f55de596c3b3_r.jpg" data-actualsrc="https://pic4.zhimg.com/v2-94d73799de03da5796d3f55de596c3b3_b.jpg">
@@ -89,18 +90,18 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
 
  **还有谁**，服不服？？？
 
-### <a name="Where-to-go-from-here"></a>有一种时尚叫GD！权志龙入伍！可惜了他的那些非主流时尚了~
+###  有一种时尚叫GD！权志龙入伍！可惜了他的那些非主流时尚了~
 
-　　              一去就是3年，看不到他的非主流时尚，看不见他的笑，这让我们怎么能睡得着~？
-                                    <strong>▼</strong>
-			               *** 从杀马特走起**
+　　              一去就是3年，看不到他的非主流时尚，看不见他的笑，这让我们怎么能睡得着~
+                                           ▼
+			              从杀马特走起
   <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/df7e89bb129442359a258eb051822d9f.jpeg" max-width="600">
   <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/f906567698554ed8b2565cd1389cb03c.jpeg" max-width="600">
 　        太刻意表现自己的时尚，只顾把自己穿的很满，甚至没有规避自己矮、身材比例不够好的缺点。
 
-                                   * **所以给人感觉是用力过猛**
+                                   所以给人感觉是用力过猛**
 
-                                       *就有了装时尚不成，
+                                       就有了装时尚不成，
 
                                   反而成了与杀马特毗邻的非主流。
  <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/e3e728cf7f0b4222b15ec0fa6aea8f24.gif" max-width="600">
@@ -120,7 +121,7 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
 <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/7f4e2391795e41f7850cf3082879659f.jpeg" max-width="600">
         GD个人风格很重，对普通大众并没有参考意义。而看不懂的，也是这些求个大众都在穿的衣服穿的，够安全就行的普通大众。
 
-                                  *这就是做自己和做别人的区别。
+                                  这就是做自己和做别人的区别。
 
                          杨幂和吴亦凡的时尚，是做人设，以及让别人做自己。
 
@@ -137,8 +138,8 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
 
               也是靠着这种GD式时尚，被时尚、潮流圈都认可，被娱乐圈明星跟风，带货力也稳居最前。
 ### 参考资源
-* [weibo](https://weibo.com/login.php) 
-* [bilibili](https://www.bilibili.com/)  
+ [weibo](https://weibo.com/login.php) 
+ [bilibili](https://www.bilibili.com/)  
 
 ### 关于原文
 
