@@ -1,92 +1,76 @@
 ---
 layout: post
 title: Winner大眼金秦禹十三亿少女的梦！
-date: 2016-12-02 
+date: 2018-06-12 
 tag: 
 ---
-<div class="bilibili-player-area"><div class="bilibili-player-video-message"><div class="bilibili-player-video-message-container"><a href="javascript:void(0)" data-action="prev" class="bilibili-player-video-message-btn slide-btn prev js-action"><i class="bilibili-player-iconfont icon-12sent"></i></a><a href="javascript:void(0)" data-action="next" class="bilibili-player-video-message-btn slide-btn next js-action"><i class="bilibili-player-iconfont icon-12sent"></i></a><div class="bilibili-player-video-message-panel"><a href="javascript:void(0)" data-action="showSetting" class="bilibili-player-video-message-show-setting js-action"></a><div class="bilibili-player-video-message-setting"><a href="javascript:void(0)" data-action="closeSetting" class="bilibili-player-video-message-close js-action">x</a><label><input type="checkbox" class="setting-checkbox" data-type="system" checked=""><span>接受系统通知</span></label><label><input type="checkbox" class="setting-checkbox" data-type="bangumi" checked=""><span>接受新番通知</span></label><label><input type="checkbox" class="setting-checkbox" data-type="news" checked=""><span>无通知时显示新闻等信息</span></label></div><ul class="bilibili-player-video-message-ul"><li class="slide current" title="" name="message_line" posnum="1" resourceid="2319" srcid="2320" sid="90615">
+### 先来总结下成员对大眼的看法
+1、这哥漏洞很多
+2、这哥长得真帅        （小漂亮）
+3、这哥眼泪有点多    （感性）
+4、这哥是队内运动最好的   （我一直以为运动最好的会是次长）
+5、这哥看起来很弱但是实际上很结实5、这哥很大方
+6、这哥很努力7、这哥很会说谎  （这一条在后面细说）
+### 再来总结下大部分人对大眼的看法
+1、大眼长得很美好
+2、大眼很努力
+3、大眼在队内光芒没有其他三个强
+4、大眼声音很温柔
+5、大眼是路痴
+6、大眼是“傻白甜”类型
+### 最后总结下大眼对自己的看法
+1、我是需要大量练习才能掌握的类型
+2、现在发现了自己长得很好
+3、我想往演员方向发展
+4、为了这次专辑我做了很多练习
+5、这次回归我变得自信了
+6、我想更加积极地生活写了 这一堆，能很明显看出我是实打实的IC吧，kkkk大力称赞自己
+在我拿这次回归之前，我一直保持着“大部分人对大眼的看法”，最近看了很多打歌舞台，看了很多节目，补了点剧，有了一些新的看法在很多人的回答中都能看到【大眼这次进步很多】【reallyreally里面那句我喜欢你真的很撩】【foolMV里简直是神颜】这些大家共同的认识我就略过了插一句，其实在这次回归之前，我并没有觉得大眼长得有多好看，看到很多人说大眼是门面，我还有点小不理解，觉得大眼长得确实很端正但是到了门面的地步？这次foolMV里那个眼神杀，我承认了，大眼是门面！大眼绝对是门面！MV刚出来的时候，我给的评论是“大眼这次不得了”关于颜的部分谈完了，下面说下看法有些分歧的唱功见过很多人夸里兜唱功好，但是很少见到有人说“金秦禹唱得真好啊”，说大眼声音干净什么的倒是听得比较多。很多人说大眼在队内负责vocal和rap间的过渡，大眼负责和声，种种说法让人觉得大眼似乎不是主唱我听了这次回归所有的现场（包括电台），我震惊了大眼现场超级稳！跳着舞唱真真声音也一点都没抖，也没有气短，也没有音量变小！每一个现场都很让人安心，这难道不是实力的体现吗？很多人说大眼在队内光芒弱，其实是因为大眼不是很爱表现，不爱表现自然镜头少，镜头少自然显得存在感低。在16年末的VLIVE里，大眼说希望自己在新的一年更加积极地生活我把积极地生活，理解为更加活泼，更多地表现自己当时听到大眼说这句话的时候，我特别为他高兴，他终于意识到他在节目中不够积极这个问题了！我们大眼要变得更好了 我产生了这样的想法这次回归的各种访谈，大眼表达得更多了，昨晚听了melonradio，总觉得大眼说话的语调变得活泼了，不知道是不是我的错觉大眼单独出演的那个购物节目shoppingmate？（名字不记得了）同样让我惊艳到不行在此之前，大眼单独出演综艺我是想都不敢想，他能做好吗？能很好地活跃气氛吗？我有很多担忧。但是看了这个综艺，虽然不是需要大量艺能的节目，虽然很短，但是我看到了不一样的大眼，很男友力，很自信地引导着那位女嘉宾（情敌），完全不是我想象中的那种手足无措需要成员帮忙圆话的场面啊！作为idol金秦禹，没有成员们的陪伴，也是可以做到的！我之前的很多担忧都太多余了终于到了本篇的重点！！！   大眼一直说自己想演戏，想演那种不只是靠脸的角色大眼演技很好？我产生了这样的质疑大眼参演的戏：WINNER版继承者 这个我当综艺看了实在没办法评价演技魔幻手机 没看过所以不评价前几天又刷了遍千年恋爱，大眼戏份不多，说成语什么的我看着其实蛮尴尬（我觉得谁来演都尴尬），但是大结局，母胎单身那段，我看到了大眼的可能性！！（我莫名是觉得母胎单身这段演得很有意思）foolMV里的那个眼神也是很有戏的，花絮里嚎叫的那一场，很有感染力！！AND，开篇有提到，成员们说大眼很会撒谎我的理解是，成员们想表达的是大眼很会演戏，骗人的时候装得很像真的！4.4号那天的直播，“近距离告白”环节，平时很放得开的小狮子一直在往后躲，看起来很容易害羞的大眼却很自如地站着其实大眼才是在镜头前最放得开的那一个吧总之，大眼绝对没有大家想象中那么平庸，有颜又努力，难道不是天之宠儿吗？—  —  —  —  —  —  —  —  —  —  —  —  —  —
+看了眼哥单独出演的无挑，想起这篇回答，再来补充一下未来艺能上篇里还是熟悉的那个 乖乖笑着拍手的大眼，吃炖泡菜那幕我有点意外，眼哥说吃炖泡菜是因为饿了（就是这么简单干脆）下篇我对眼哥的表现很赞赏，感觉玩儿得很好，特别是自我控制环节，表现得很有趣也很自然，跳得也很好看，连自己的舞蹈都记不清的人跳别人的舞居然那么顺畅，果然是放开了啊！
 
-<a href="https://www.bilibili.com/blackboard/x/activity-worldcup2018/game" target="_blank" name="message_line"><font color="#FFFFFF">梅西VS拉基蒂奇，巴萨内部对决谁能笑到最后</font></a>
+<img class="lb_mainimg" unselectable="on" alt="" data-link="http://www.duitang.com/people/mblog/444783401/detail/" data-imgid="c1dd19f7aa41416ffd8ccb8eccde42ec" data-src="http://p3.so.qhimgs1.com/t01d21cd98cf48cfb73.gif" src="http://p3.so.qhimgs1.com/t01d21cd98cf48cfb73.gif" data-loaded="1" style="width: 372px; height: 372px; top: 0px; opacity: 1; left: 0px;">
+### 笔芯
+<img class="column-gif" role="presentation" src="https://pic1.zhimg.com/v2-1ba090eb7bd2ec6deeaa716afcb9ef20_b.gif" data-thumbnail="https://pic1.zhimg.com/v2-1ba090eb7bd2ec6deeaa716afcb9ef20_b.jpg">
 
-</li><li class="slide next" title="" name="message_line" posnum="2" resourceid="2319" srcid="2321" sid="89781">
+### 长得好看的人撒起娇真的是心都化了     
+<img class="column-gif" role="presentation" src="https://pic1.zhimg.com/v2-1b7ad85a23dabb7c28aa56bf5f138498_b.gif" data-thumbnail="https://pic1.zhimg.com/v2-1b7ad85a23dabb7c28aa56bf5f138498_b.jpg">
+描述: 用来控制断点是否生效,关闭此功能，打包 `.ipa` 时，包体积会小很多。    
+配置路径:【project/TARGETS/Build Settings/Apple LLVM7.1 - Code Genneration/Generate Debug Symbols】    
 
-<a href="https://www.bilibili.com/video/av25111454/" target="_blank" name="message_line"><font color="#FFFFFF">周刊哔哩哔哩排行榜#417</font></a>
 
-</li><li class="slide prev" title="" name="message_line" posnum="3" resourceid="2319" srcid="2322" sid="90834">
+### 颜的巅峰
+<img data-rawheight="1441" src="https://pic1.zhimg.com/80/v2-05989586446142a7864040934c36b870_hd.jpg" data-rawwidth="960" class="origin_image zh-lightbox-thumb lazy" width="960" data-original="https://pic1.zhimg.com/v2-05989586446142a7864040934c36b870_r.jpg" data-actualsrc="https://pic1.zhimg.com/v2-05989586446142a7864040934c36b870_b.jpg">
 
-<a href="https://www.bilibili.com/read/cv580251" target="_blank" name="message_line"><font color="#FFFFFF">萌宠~游戏~百万奖金~我全都要！！</font></a>
+描述: 用来捕捉整个项目在 Xcode 里执行时的异常。例如：try/catch 时 catch住的异常,【All Exception】可以直接定位到具体位置。     
+配置路径: 异常捕捉(commod+7)/Xcode左下角点击+/Add Exception Breakpoint/完成(回车键)  
 
-</li></ul></div></div></div><div class="bilibili-player-video-wrap bilibili-player-video-wrap-plus"><div class="bilibili-player-video-state"><svg class="bilibili-player-video-state-play" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve"><style type="text/css">.st0{fill:#FFFFFF;}</style><g><image style="overflow:visible;opacity:0.75;" width="80" height="70" xlink:href="data:image/png;base64,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" transform="matrix(1 0 0 1 10 10.5)"></image><g><path class="st0" d="M73.2,28.5h-15l6.3-6.2c0.5-0.5,0.5-1.3,0-1.8c-0.5-0.5-1.3-0.6-1.8-0.1l-8.1,8h-8.3l-8.1-8c-0.5-0.5-1.3-0.5-1.8,0c-0.5,0.5-0.5,1.3,0,1.8l6.3,6.2H26.8c-4.3,0-7.8,3.7-7.8,7.9v23.2c0,4.3,3.5,7.8,7.8,7.8h4.3c0.2,2,1.8,3.4,3.8,3.4s3.6-1.4,3.8-3.4h23.3c0.2,2,1.8,3.4,3.8,3.4c2,0,3.6-1.4,3.8-3.4h3.5c4.3,0,7.8-3.5,7.8-7.8V36.4C81,32.2,77.5,28.5,73.2,28.5z"></path></g></g><path style="fill:#5a5a5a;" d="M45.9,38.2L59,45.9c1.7,1,1.7,3.5,0,4.5l-13.1,7.7c-1.7,1-3.9-0.3-3.9-2.3V40.4C42,38.4,44.2,37.2,45.9,38.2z"></path></svg><img class="bilibili-player-video-state-buff" src="//static.hdslb.com/images/loading.gif"></div><div class="bilibili-player-video-panel" style="display: none;"><div class="bilibili-player-video-panel-image"><div class="bilibili-player-video-panel-image-detail"></div></div><div class="bilibili-player-video-panel-text"><div class="bilibili-player-video-panel-row" stage="0">播放器初始化...[完成]</div><div class="bilibili-player-video-panel-row" stage="1">加载用户配置...[完成]</div></div></div><div class="bilibili-player-video-subtitle"></div><div class="bilibili-player-video-bas-danmaku"><div class="bas-danmaku" style="width: 37.8251%; height: 100%;"></div></div><div class="bilibili-player-video-adv-danmaku"></div><div class="bilibili-player-video-danmaku"><div class="bilibili-danmaku" style="user-select: none; position: absolute; white-space: pre; pointer-events: none; perspective: 500px; display: none; will-change: transform; font-size: 25px; color: rgb(255, 255, 255); font-family: SimHei, &quot;Microsoft JhengHei&quot;, Arial, Helvetica, sans-serif; font-weight: bold; line-height: 1.125; opacity: 1; text-shadow: rgb(0, 0, 0) 1px 0px 1px, rgb(0, 0, 0) 0px 1px 1px, rgb(0, 0, 0) 0px -1px 1px, rgb(0, 0, 0) -1px 0px 1px; left: 679px; top: 0px; transform: translateX(-758.519px) translateY(0px) translateZ(0px); transition: -webkit-transform 5.76923s linear;">豆眼~~</div><div class="bilibili-danmaku" style="user-select: none; position: absolute; white-space: pre; pointer-events: none; perspective: 500px; display: none; will-change: transform; font-size: 25px; color: rgb(255, 255, 255); font-family: SimHei, &quot;Microsoft JhengHei&quot;, Arial, Helvetica, sans-serif; font-weight: bold; line-height: 1.125; opacity: 1; text-shadow: rgb(0, 0, 0) 1px 0px 1px, rgb(0, 0, 0) 0px 1px 1px, rgb(0, 0, 0) 0px -1px 1px, rgb(0, 0, 0) -1px 0px 1px; left: 679px; top: 0px; transform: translateX(-991.111px) translateY(0px) translateZ(0px); transition: -webkit-transform 5.40747s linear;">土豆黑得发亮了哈哈哈哈哈</div><div class="bilibili-danmaku" style="user-select: none; position: absolute; white-space: pre; pointer-events: none; perspective: 500px; display: inline-block; will-change: transform; font-size: 25px; color: rgb(255, 255, 255); font-family: SimHei, &quot;Microsoft JhengHei&quot;, Arial, Helvetica, sans-serif; font-weight: bold; line-height: 1.125; opacity: 1; text-shadow: rgb(0, 0, 0) 1px 0px 1px, rgb(0, 0, 0) 0px 1px 1px, rgb(0, 0, 0) 0px -1px 1px, rgb(0, 0, 0) -1px 0px 1px; left: 679px; top: 0px; transform: translateX(-788px) translateY(0px) translateZ(0px); transition: -webkit-transform 3.76935s linear;">粉丝给力</div></div><div class="bilibili-player-video"><video src="blob:https://www.bilibili.com/766c097d-3234-497c-a1ca-b00d5d1c1a73"></video></div><div class="bilibili-player-video-toast-wrp">
-                    <div class="bilibili-player-video-toast-top"></div>
-                    <div class="bilibili-player-video-toast-middle"></div>
-                    <div class="bilibili-player-video-toast-bottom"></div>
-                </div></div><div class="bilibili-player-video-control" style="opacity: 1;"><div name="play_screen" class="bilibili-player-video-btn bilibili-player-video-btn-start">
-                <i class="bilibili-player-iconfont bilibili-player-iconfont-start icon-24play" name="play_button"></i>
-                <i class="bilibili-player-iconfont bilibili-player-iconfont-pause icon-24pause" name="pause_button"></i>
-            </div><div class="bilibili-player-video-progress"><div class="bilibili-player-video-progress-bar bpui-component bpui-slider"><div class="bpui-slider-tracker-wrp" name="slider"><div class="bpui-slider-tracker" name="slider"><div class="bilibili-player-video-progress-buffer"><div class="bilibili-player-video-progress-buffer-range" style="width: 100%; overflow: hidden;"></div></div><div class="bpui-slider-handle" name="slider" style="left: 96.482%;"></div><div class="bpui-slider-progress" style="width: 97.7555%;"></div></div></div><div class="bilibili-player-video-progress-detail" style="display: none;"><div class="bilibili-player-video-progress-detail-img" style="display: none;"></div><div class="bilibili-player-video-progress-detail-time"></div>
-                <div class="bilibili-player-video-progress-detail-sign">
-                    <div class="bilibili-player-video-progress-detail-sign-down"></div>
-                    <div class="bilibili-player-video-progress-detail-sign-up"></div>
-                </div>
-            </div></div></div><div class="bilibili-player-video-time" name="time_textarea">
-                <input class="bilibili-player-video-time-seek" value="00:00">
-                <div class="bilibili-player-video-time-wrap" name="time_textarea">
-                    <span class="bilibili-player-video-time-now" name="time_textarea">03:32</span>
-                    <span class="bilibili-player-video-divider" name="time_textarea">/</span>
-                    <span class="bilibili-player-video-time-total" name="time_textarea">03:36</span>
-                </div>
-            </div><div class="bilibili-player-video-btn bilibili-player-video-btn-volume" name="vol">
-                <i class="bilibili-player-iconfont bilibili-player-iconfont-volume icon-24soundsmall" name="vol"></i>
-                <i class="bilibili-player-iconfont bilibili-player-iconfont-volume-max icon-24soundlarge" name="vol"></i>
-                <i class="bilibili-player-iconfont bilibili-player-iconfont-volume-min icon-24soundoff" name="vol"></i>
-                <div class="bilibili-player-video-volumebar-wrp">
-                    <div class="bilibili-player-video-volume-num">26</div>
-                    <div class="bilibili-player-video-volumebar bpui-component bpui-slider bpui-slider-vertical"><div class="bpui-slider-tracker-wrp" name="vol"><div class="bpui-slider-tracker" name="vol"><div class="bpui-slider-handle" name="vol" style="bottom: 31.7284%;"></div><div class="bpui-slider-progress" style="height: 26.1675%;"></div></div></div></div>
-                </div>
-            </div><div class="bilibili-player-video-btn bilibili-player-video-btn-quality">
-                <div class="bilibili-player-video-quality-menu bpui-component bpui-selectmenu"><span class="bpui-selectmenu-txt">自动<span class="bilibili-player-auto-hidden">(480P)</span></span><div class="bpui-selectmenu-arrow bpui-icon bpui-icon-arrow-down"></div><ul class="bpui-selectmenu-list bpui-selectmenu-list-left" style="display: none;"><li class="bpui-selectmenu-list-row" data-value="80"><span class="bilibili-player-video-quality-text">高清 </span><span>1080P</span><span class="bilibili-player-needlogin">登录</span></li><li class="bpui-selectmenu-list-row" data-value="64"><span class="bilibili-player-video-quality-text">高清 </span><span>720P</span><span class="bilibili-player-needlogin">登录</span></li><li class="bpui-selectmenu-list-row" data-value="32"><span class="bilibili-player-video-quality-text">清晰 </span><span>480P</span></li><li class="bpui-selectmenu-list-row" data-value="16"><span class="bilibili-player-video-quality-text">流畅 </span><span>360P</span></li><li class="bpui-selectmenu-list-row" data-value="0" data-selected="selected">自动<span class="bilibili-player-auto-hidden">(480P)</span></li></ul></div>
-            </div><div class="bilibili-player-video-btn bilibili-player-video-btn-danmaku" name="ctlbar_danmuku_on" data-text="打开弹幕">
-                <i class="bilibili-player-iconfont bilibili-player-iconfont-danmaku icon-24danmuon player-tooltips-trigger" name="ctlbar_danmuku_close" data-tooltip="1" data-text="关闭弹幕" data-position="top-center" data-change-mode="0"></i>
-                <i class="bilibili-player-iconfont bilibili-player-iconfont-danmaku-off icon-24danmuoff player-tooltips-trigger" name="ctlbar_danmuku_on" data-tooltip="1" data-text="打开弹幕" data-position="top-center" data-change-mode="0"></i>
-            <div class="bilibili-player-danmaku-setting-lite-panel" style="display: none;">
-                <div class="bilibili-player-danmaku-setting-lite">
-                    <div class="bilibili-player-danmaku-setting-lite-row">
-                        <div class="bilibili-player-danmaku-setting-lite-title">不透明度</div>
-                        <div class="bilibili-player-danmaku-setting-lite-opacitybar bpui-component bpui-slider"><div class="bpui-slider-tracker-wrp" name="ctlbar_danmuku_opacity"><div class="bpui-slider-tracker" name="ctlbar_danmuku_opacity"><div class="bpui-slider-handle" name="ctlbar_danmuku_opacity" style="left: 94.1667%;"><div class="bpui-slider-hint"></div></div><div class="bpui-slider-progress" style="width: 100%;"></div></div></div></div>
-                    </div>
-                    <div class="bilibili-player-danmaku-setting-lite-discipline"></div>
-                    <div class="bilibili-player-danmaku-setting-lite-row">
-                        <span>
-                            <input type="checkbox" class="bilibili-player-setting-preventshade bpui-component bpui-checkbox bpui-button" name="ctlbar_danmuku_prevent" id="checkbox41">
-                        <label for="checkbox41" class="bpui-text-left button bpui-button-text-only" role="button"><span class="bpui-button-text"><span class="bpui-checkbox-text">防挡字幕</span><i class="bpui-icon-checkbox icon-12checkbox"></i><i class="bpui-icon-checkbox icon-12selected2"></i><i class="bpui-icon-checkbox icon-12select"></i></span></label></span>
-                        <span class="bilibili-player-setting-dmask-wrap">
-                            <input type="checkbox" class="bilibili-player-setting-dmask" name="ctlbar_danmuku_prevent">
-                        </span>
-                    </div>
-                    <div class="bilibili-player-danmaku-setting-lite-type-list"><div class="bilibili-player-block-filter-type" name="ctlbar_danmuku_top_close" ftype="top"><i class="bilibili-player-block-filter-image bilibili-player-iconfont icon-48danmutop"><i class="bilibili-player-block-filter-disabled bilibili-player-iconfont icon-24danmuforbid"></i></i><div class="bilibili-player-block-filter-label">顶端弹幕</div></div><div class="bilibili-player-block-filter-type" name="ctlbar_danmuku_bottom_close" ftype="bottom"><i class="bilibili-player-block-filter-image bilibili-player-iconfont icon-48danmubottom"><i class="bilibili-player-block-filter-disabled bilibili-player-iconfont icon-24danmuforbid"></i></i><div class="bilibili-player-block-filter-label">底端弹幕</div></div><div class="bilibili-player-block-filter-type" name="ctlbar_danmuku_scroll_close" ftype="scroll"><i class="bilibili-player-block-filter-image bilibili-player-iconfont icon-48danmuscroll"><i class="bilibili-player-block-filter-disabled bilibili-player-iconfont icon-24danmuforbid"></i></i><div class="bilibili-player-block-filter-label">滚动弹幕</div></div></div>
-                </div>
-                </div></div><div class="bilibili-player-video-btn bilibili-player-video-btn-repeat">
-                <i class="bilibili-player-iconfont bilibili-player-iconfont-repeat icon-24repeatoff player-tooltips-trigger" data-tooltip="1" data-text="打开洗脑循环" data-position="top-center" data-change-mode="3"></i>
-            </div><div class="bilibili-player-video-btn bilibili-player-video-btn-widescreen" name="widescreen">
-                <i class="bilibili-player-iconfont bilibili-player-iconfont-widescreen icon-24wideoff player-tooltips-trigger" name="widescreen" data-tooltip="1" data-text="宽屏模式" data-position="top-center" data-change-mode="2"></i>
-            </div><div class="bilibili-player-video-btn bilibili-player-video-btn-fullscreen video-state-fullscreen-off" name="browser_fullscreen">
-            <i class="bilibili-player-iconfont bilibili-player-iconfont-fullscreen icon-24fullscreen player-tooltips-trigger" name="browser_fullscreen" data-tooltip="1" data-text="进入全屏" data-position="top-right" data-change-mode="2"></i>
-        <div class="bilibili-player-video-web-fullscreen" name="web_fullscreen">
-            <i class="bilibili-player-iconfont bilibili-player-iconfont-web-fullscreen icon-24webfull player-tooltips-trigger" name="web_fullscreen" data-tooltip="1" data-text="网页全屏" data-position="top-right" data-change-mode="2"></i>
-        </div></div></div><div class="bilibili-player-video-sendbar" style="opacity: 1;"><div name="danmuku_choose" class="bilibili-player-video-btn bilibili-player-video-btn-danmaku">
-                    <i name="danmuku_choose" class="bilibili-player-iconfont bilibili-player-iconfont-danmaku icon-24danmusetting player-tooltips-trigger" data-tooltip="1" data-position="top-left" data-text="弹幕选择"></i>
-                </div>
-                <div name="danmuku_color" class="bilibili-player-video-btn bilibili-player-video-btn-color">
-                    <i name="danmuku_color" class="bilibili-player-iconfont bilibili-player-iconfont-color icon-24color player-tooltips-trigger" data-tooltip="1" data-position="top-center" data-text="弹幕颜色"></i>
-                </div>
-                <div class="bilibili-player-video-inputbar unlogin">
-                    <div class="bilibili-player-video-danmaku-wrap" style="display: block;">游客不能发送弹幕，请先<a href="javascript:void(0);" class="bilibili-player-quick-login">登录</a>或<a href="https://www.bilibili.com/register" target="_blank">注册</a></div>
-                    <input class="bilibili-player-video-danmaku-input" placeholder="你可以在这里输入弹幕吐槽哦~" style="display: none;">
-                    <div class="bilibili-player-video-hint" style="display: block;"><a href="//www.bilibili.com/blackboard/help.html#弹幕相关" target="_blank">弹幕礼仪 &gt;</a></div>
-                    <div class="bilibili-player-video-btn-send bpui-component bpui-button button disabled" role="button"><span class="bpui-button-text">发送 &gt;</span></div>
-                </div>
-            </div></div>
 
+### 感受这眼神
+<img data-rawheight="832" src="https://pic3.zhimg.com/80/v2-16bc77f429ec340c16614c2694d5004a_hd.jpg" data-rawwidth="720" class="origin_image zh-lightbox-thumb lazy" width="720" data-original="https://pic3.zhimg.com/v2-16bc77f429ec340c16614c2694d5004a_r.jpg" data-actualsrc="https://pic3.zhimg.com/v2-16bc77f429ec340c16614c2694d5004a_b.jpg">
+
+1、来一波美图：
+
+```
+<img class="column-gif" role="presentation" src="https://pic1.zhimg.com/v2-1ba090eb7bd2ec6deeaa716afcb9ef20_b.gif" data-thumbnail="https://pic1.zhimg.com/v2-1ba090eb7bd2ec6deeaa716afcb9ef20_b.jpg">
+
+```
+
+2、泡面头：   
+
+```    
+
+<img data-rawheight="2048" src="https://pic1.zhimg.com/80/v2-b6c8b24385c565e983e23af5f0bbfd1c_hd.jpg" data-rawwidth="1152" class="origin_image zh-lightbox-thumb lazy" width="1152" data-original="https://pic1.zhimg.com/v2-b6c8b24385c565e983e23af5f0bbfd1c_r.jpg" data-actualsrc="https://pic1.zhimg.com/v2-b6c8b24385c565e983e23af5f0bbfd1c_b.jpg">
+
+```
+
+3、完全看不出真实年龄的颜，金秦禹是91年的，你信吗：
+
+```
+
+<img data-rawheight="2048" src="https://pic3.zhimg.com/80/v2-6b2813d834dc6b562e5c0ecaab7b47e6_hd.jpg" data-rawwidth="1462" class="origin_image zh-lightbox-thumb lazy" width="1462" data-original="https://pic3.zhimg.com/v2-6b2813d834dc6b562e5c0ecaab7b47e6_r.jpg" data-actualsrc="https://pic3.zhimg.com/v2-6b2813d834dc6b562e5c0ecaab7b47e6_b.jpg">
+
+```
+<img data-rawheight="2048" src="https://pic3.zhimg.com/80/v2-22ffecfb2940f548ceaba488fef0e9fe_hd.jpg" data-rawwidth="1364" class="origin_image zh-lightbox-thumb lazy" width="1364" data-original="https://pic3.zhimg.com/v2-22ffecfb2940f548ceaba488fef0e9fe_r.jpg" data-actualsrc="https://pic3.zhimg.com/v2-22ffecfb2940f548ceaba488fef0e9fe_b.jpg">
 
 
 <br>
