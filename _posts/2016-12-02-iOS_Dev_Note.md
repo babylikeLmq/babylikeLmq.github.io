@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Winner大眼金秦禹十三亿少女的梦！
+title: Winner大眼金秦禹十三亿少女的噩梦！
 date: 2018-06-12 
 tag: 
 ---
