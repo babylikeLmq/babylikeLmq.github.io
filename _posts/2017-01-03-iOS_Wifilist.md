@@ -38,7 +38,7 @@ tag:
 
 <br>
 
-参考资源：[NEHotspotHelper NetworkExtension API iOS9.0](http://stackoverflow.com/questions/31704292/nehotspothelper-networkextension-api-ios9-0)
+参考资源：[NEHotspotHelper NetworkExtension API iOS9.0](https://baike.so.com/doc/7048970-7726596.html)
 
 <br>
 转载请注明：[潘柏信的博客](http://baixin) » [Wifi 定位原理及 iOS Wifi 列表获取](http://baixin.io/2017/01/iOS_Wifilist/)  
