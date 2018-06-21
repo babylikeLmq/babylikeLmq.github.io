@@ -8,7 +8,7 @@ tags:
 <img src="https://pic1.zhimg.com/80/v2-46a03776f912ce5d877179be2ffb8ed4_hd.jpg" data-rawwidth="3240" data-rawheight="1080" class="origin_image zh-lightbox-thumb lazy" width="3240" data-original="https://pic1.zhimg.com/v2-46a03776f912ce5d877179be2ffb8ed4_r.jpg" data-actualsrc="https://pic1.zhimg.com/v2-46a03776f912ce5d877179be2ffb8ed4_b.jpg">
 <img src="https://pic1.zhimg.com/80/v2-204cad8962e7762dd29f9b9d076d9acc_hd.jpg" data-rawwidth="3240" data-rawheight="1080" class="origin_image zh-lightbox-thumb lazy" width="3240" data-original="https://pic1.zhimg.com/v2-204cad8962e7762dd29f9b9d076d9acc_r.jpg" data-actualsrc="https://pic1.zhimg.com/v2-204cad8962e7762dd29f9b9d076d9acc_b.jpg">
 <img src="https://pic1.zhimg.com/80/v2-730c79a5d2ed775109bcb22e78142630_hd.jpg" data-rawwidth="3240" data-rawheight="1080" class="origin_image zh-lightbox-thumb lazy" width="3240" data-original="https://pic1.zhimg.com/v2-730c79a5d2ed775109bcb22e78142630_r.jpg" data-actualsrc="https://pic1.zhimg.com/v2-730c79a5d2ed775109bcb22e78142630_b.jpg">
-## 介绍
+### 介绍
 G-DRAGON（权志龙、권지용），1988年8月18日出生于韩国首尔，韩国男歌手，男子演唱组合BIGBANG队长，所属经纪公司YG Entertainment词曲制作人。
 2001年，因参与特别企划专辑《大韩民国Hip-Hop Flex》而出道。2006年，作为组合BIGBANG成员身份正式出道   。2009年，发行第一张专辑《Heartbreaker》  。2012年9月15日，发行第二张专辑《One of a kind》 。2013年9月，推出专辑《COUP D'ETAT》；8月31日至9月1日，在首尔奥林匹克体操竞技场举办演唱会  ；同年，获得MAMA“年度最佳歌手”、“最佳男歌手”、“最佳舞蹈表演男歌手”、“最佳音乐录影带”奖项。2014年，创作发行与TAEYANG合唱的单曲《Good Boy》  。2015年9月1日，随组合BIGBANG正式发行专辑《MADE SERIES》   。2016年7月，随组合BIGBANG一起拍摄的电影《BIGBANG MADE》正式上映 。2017年6月，发布个人同名专辑《Kwon Ji Yong》   ；同月10日，在首尔举办solo演唱会，开启19个城市个人巡演
 
