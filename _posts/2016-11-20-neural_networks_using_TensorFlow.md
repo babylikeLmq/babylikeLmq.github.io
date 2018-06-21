@@ -4,7 +4,8 @@ title: G-DRAGON
 date: 2016-11-20 
 tags:   
 ---
-<img id="imgPicture" src="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=b12bbd7731fa828bc52e95b19c762a51/060828381f30e924b58ca5434e086e061d95f793.jpg" onload="imageResize()"  height: 1100px; margin-top: 5.5px; width600: px;" url="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=b12bbd7731fa828bc52e95b19c762a51/060828381f30e924b58ca5434e086e061d95f793.jpg">
+<img class="lb_mainimg" unselectable="on" alt="" data-link="http://www.win4000.com/wallpaper_big_104369.html" data-imgid="7cf176829c67771e2439cb5b00330038" data-src="http://p0.so.qhimgs1.com/t01edc6018eea86991c.jpg" src="http://pic1.win4000.com/wallpaper/b/573bd4339c4ce.jpg" style="top: 0px; opacity: 1; width: 643.2px; height: 402px; left: 0px;">
+
 ## 介绍
 G-DRAGON（权志龙、권지용），1988年8月18日出生于韩国首尔，韩国男歌手，男子演唱组合BIGBANG队长，所属经纪公司YG Entertainment词曲制作人。
 2001年，因参与特别企划专辑《大韩民国Hip-Hop Flex》而出道。2006年，作为组合BIGBANG成员身份正式出道   。2009年，发行第一张专辑《Heartbreaker》  。2012年9月15日，发行第二张专辑《One of a kind》 。2013年9月，推出专辑《COUP D'ETAT》；8月31日至9月1日，在首尔奥林匹克体操竞技场举办演唱会  ；同年，获得MAMA“年度最佳歌手”、“最佳男歌手”、“最佳舞蹈表演男歌手”、“最佳音乐录影带”奖项。2014年，创作发行与TAEYANG合唱的单曲《Good Boy》  。2015年9月1日，随组合BIGBANG正式发行专辑《MADE SERIES》   。2016年7月，随组合BIGBANG一起拍摄的电影《BIGBANG MADE》正式上映 。2017年6月，发布个人同名专辑《Kwon Ji Yong》   ；同月10日，在首尔举办solo演唱会，开启19个城市个人巡演
@@ -42,11 +43,7 @@ G-DRAGON（权志龙、권지용），1988年8月18日出生于韩国首尔，�
 
 
 “So… I am Kwon Ji Yong and also G-DragonActually… Many people know me as D-Dragon. That’s true. Talking like this, it feels a bit weird to introduce myself, I am not sure how to properly introduce.The person you see on the screen right now is, to someone a son, a friend, Love, or maybe a favorite star, celebrity… but the important thing is I am not even sure who I really am. I am always trying to look good when I dress up as “GD” like this. Well… but the reality is sometimes it feels too heavy on me.Still, I am kind of afraid to take it off. I may seem like… It might seem like I am living the “good life”, but these days… I don’t know. At least in front of you guys, no… at least in this very moment… I wanted to be more honest. I cannot show you everything but showing you who Kwon Ji Yong REALLY is for the first time. I wish I can be someone who still shines without all these shiny things on. I’ve been living as G-Dragon until now, but now, I want to live being “KWON JI YONG”.I don’t know what you want me to be but what you see right now is everything. So… I am not sure how I look to you, You are not sure what I’m saying, right? Uh… (going crazy) Who am I? Do you know who you are? ”然后他唱了新专《权志龙》里面那首Superstar.VCR之后有一个地方他现场用英文独白，可是场子里太吵了，时不时就有人高喊“G-Dragon,we love you.” 不重要的，他早就明白。“权志龙是谁？”这个答案并不重要。来看演唱会的人，只想看到那个舞台上闪闪发光的G-Dragon，所以他只需要扮演那个G-Dragon就够了。“权志龙是谁？”他自己也不知道了。整张新专他发挥了自己vocal的能力，节奏舒缓，浅吟低唱。他在回忆曾经的自己，也在审视现在的自己。一个内向而孤独的人，一个内心翻腾着岩浆的人，一个戴着面具生活的人，只有两条路可以走——疯或死。
-* **一些人会利用 `神经网络` 解决复杂的问题，如图像处理，**  `神经网络` 属于一类代表学习的算法，这些算法可以把复杂的问题分解为简单的形式，使他们成为可以理解的（或 “可表示”），就像吞咽食物之前的咀嚼，让我们更容易吸收和消化。这个分解的过程如果使用传统的算法来实现也可以，但是实现过程将会很困难。
-
-* **选择适当类型的 `神经网络` ，来解决问题，**  每个问题的复杂情况都不一样，所以数据决定你解决问题的方式。 例如，如果问题是序列生成的问题，`递归神经网络` 更合适。如果它是图像相关的问题，想更好地解决可以采取 `卷积神经网络`。
-
-* **最后最重要的就是 `硬件` 要求了，硬件是运行 `神经网络` 模型的关键。** 神经网被 “发现” 很久以前，他们在近年来得到推崇的主要的原因就是计算资源更好，能更大发挥它的光芒，如果你想使用 `神经网络` 解决这些现实生活中的问题，那么你得准备购买一些高端的硬件了😆！
+😆
 
 ### <a name="solve-problems"></a>大家都写的很多，我就随便说几点
 
@@ -90,55 +87,55 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
  <img src="https://pic4.zhimg.com/80/v2-94d73799de03da5796d3f55de596c3b3_hd.jpg" data-rawwidth="720" data-rawheight="288" class="origin_image zh-lightbox-thumb lazy" width="720" data-original="https://pic4.zhimg.com/v2-94d73799de03da5796d3f55de596c3b3_r.jpg" data-actualsrc="https://pic4.zhimg.com/v2-94d73799de03da5796d3f55de596c3b3_b.jpg">
  <img src="https://pic4.zhimg.com/80/1d3fa299e54560958646feaf422fad43_hd.png" data-rawwidth="984" data-rawheight="1749" class="origin_image zh-lightbox-thumb lazy" width="984" data-original="https://pic4.zhimg.com/1d3fa299e54560958646feaf422fad43_r.jpg" data-actualsrc="https://pic4.zhimg.com/1d3fa299e54560958646feaf422fad43_b.png">
 
-* **还有谁**，服不服？？？
+ **还有谁**，服不服？？？
 
 ### <a name="Where-to-go-from-here"></a>有一种时尚叫GD！权志龙入伍！可惜了他的那些非主流时尚了~
 
 　　              一去就是3年，看不到他的非主流时尚，看不见他的笑，这让我们怎么能睡得着~？
-                            <strong>▼</strong>
-			               * 从杀马特走起
+                                    <strong>▼</strong>
+			               *** 从杀马特走起**
   <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/df7e89bb129442359a258eb051822d9f.jpeg" max-width="600">
   <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/f906567698554ed8b2565cd1389cb03c.jpeg" max-width="600">
 　        太刻意表现自己的时尚，只顾把自己穿的很满，甚至没有规避自己矮、身材比例不够好的缺点。
 
-                                   * 所以给人感觉是用力过猛，
+                                   * **所以给人感觉是用力过猛**
 
                                        *就有了装时尚不成，
 
-                                  *反而成了与杀马特毗邻的非主流。
+                                  反而成了与杀马特毗邻的非主流。
  <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/e3e728cf7f0b4222b15ec0fa6aea8f24.gif" max-width="600">
-                   *也有一些不被人所读懂，但是却很狂很拽很酷很炫，很超脱的highfashion搭配。
+                   也有一些不被人所读懂，但是却很狂很拽很酷很炫，很超脱的highfashion搭配。
   <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/03e3f0fd5dff4869bc348e2878dfd711.gif" max-width="600">
-                                     *好了好了，进入正题！
+                                     好了好了，进入正题！
 
-                                  *我们还是来看看GD的时尚吧！
+                                  我们还是来看看GD的时尚吧！
 <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/ea3fd84ccb1f450da90ef35d0b551b7b.jpeg" max-width="600" class="__web-inspector-hide-shortcut__">
-                                         *你有没有发现，
+                                         你有没有发现，
 
-                                     *GD并不是一直就时尚。
+                                     GD并不是一直就时尚。
 				     
-				         *你有没有发现，
+				         你有没有发现，
 
-                                   *GD的这些时尚，很难去定义。
+                                   GD的这些时尚，很难去定义。
 <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/7f4e2391795e41f7850cf3082879659f.jpeg" max-width="600">
         GD个人风格很重，对普通大众并没有参考意义。而看不懂的，也是这些求个大众都在穿的衣服穿的，够安全就行的普通大众。
 
-                                  * 这就是做自己和做别人的区别。
+                                  *这就是做自己和做别人的区别。
 
-                         *杨幂和吴亦凡的时尚，是做人设，以及让别人做自己。
+                         杨幂和吴亦凡的时尚，是做人设，以及让别人做自己。
 
-                        *GD、甚至ladygaga这些，是做自己，以及让别人做自己。
+                        GD、甚至ladygaga这些，是做自己，以及让别人做自己。
 
 <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/f3c55b05087442ff9850088bbdc61100.jpeg" max-width="600">
 
-                  * 即便所有男明星都在穿的正常款，也能靠搭配和个人气场脱颖而出。
+                   即便所有男明星都在穿的正常款，也能靠搭配和个人气场脱颖而出。
 
 <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/e66e324d9b344ba698ad0b24666dbb42.jpeg" max-width="600"> 
               也让我们看到，时尚也就这么回事，不过是在万般难为情中，成就更好的自己罢了。
 <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/fd0550528e2b410dbd1d92580d10bf19.jpeg" max-width="600">
-                                   *直到今天为止，GD是时尚的啊。
+                                   直到今天为止，GD是时尚的啊。
 
-              *也是靠着这种GD式时尚，被时尚、潮流圈都认可，被娱乐圈明星跟风，带货力也稳居最前。
+              也是靠着这种GD式时尚，被时尚、潮流圈都认可，被娱乐圈明星跟风，带货力也稳居最前。
 ### 参考资源
 * [weibo](https://weibo.com/login.php) 
 * [bilibili](https://www.bilibili.com/)  
