@@ -8,7 +8,17 @@ tag:
 　WINNER（위너）是韩国YG Entertainment于2014年推出的男子组合，先后由姜昇润、金秦禹、李昇勋、宋旻浩、南太铉五名成员组成。
 
 2014年8月14日发行首张正规专辑《2014 S/S》；8月17日通过《SBS人气歌谣》正式出道；9月10日发行专辑《2014 S/S-Japan Collection-》在日本出道。2016年2月1日发布迷你专辑《EXIT:E》。11月18日，南太铉因心理健康问题与经纪公司商讨后决定解除合约、退队。2017年4月4日，发行专辑《FATE NUMBER FOR》；8月4日发布专辑《OUR TWENTY FOR》。2018年1月，获得第32届金唱片奖音源部门本奖。乐队于2018年4月4日回归，时隔4年再发正规专辑。
-
+<li data-mediaid="mda-m8hU7ehu4iIlSTE6" data-secondid="18533" data-position="0" data-playnum="204083">
+<a href="javascript:;">
+<img src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D400/sign=3e50053229738bd4c421b3319189876c/42166d224f4a20a4a2c7462897529822730ed000.jpg">
+<span class="video-shadow"></span>
+<span class="video-play"><em class="cmn-icon cmn-icons cmn-icons_videoPlayer-play"></em></span>
+<span class="video-title" title="WINNER">
+<span class="video-title-content">WINNER</span>
+<span class="video-title-vv"><em class="wiki-lemma-icons wiki-lemma-icons_eye"></em>20.4w</span>
+</span>
+</a>
+</li>
 ### 基本信息
 现任成员 :	金振宇	李胜勋	宋闵浩	南泰铉	姜胜允
 ### 演艺经历
