@@ -93,12 +93,14 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
 ###  有一种时尚叫GD！权志龙入伍！可惜了他的那些非主流时尚了~
 
 　　              一去就是3年，看不到他的非主流时尚，看不见他的笑，这让我们怎么能睡得着~
-                                           ▼
-			              从杀马特走起
+                                         
+					 
+					   ▼
+					   <img class="img initial loaded" src="http://p1.pstatp.com/large/5e7300017e888a21940a" alt="让妹子疯狂尖叫的权志龙、GD为什么这么火？直男们都看看吧" data-was-processed="true">
 <img class="img loading" src="http://p3.pstatp.com/large/5e750000db51765ce91a" alt="让妹子疯狂尖叫的权志龙、GD为什么这么火？直男们都看看吧" data-was-processed="true">
   
 　        太刻意表现自己的时尚，只顾把自己穿的很满，甚至没有规避自己矮、身材比例不够好的缺点。
-
+<img src="http://n.sinaimg.cn/ent/4_img/uplaod/893e0c02/20171004/eS1z-fymkwwk8286482.jpg" o-width="950" o-height="1424" style="width: 950px; height: 1424px;">
                                    所以给人感觉是用力过猛
 
                                        就有了装时尚不成，
@@ -114,7 +116,7 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
                                          你有没有发现，
 
                                      GD并不是一直就时尚。
-				     
+ <img alt="巴黎时装周GD权志龙亮相" src="//p.nanrenwo.net/uploads/allimg/160623/8449-1606231G403.jpg" title="巴黎时装周GD权志龙亮相">
 				         你有没有发现，
 
                                    GD的这些时尚，很难去定义。
@@ -126,14 +128,14 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
                          杨幂和吴亦凡的时尚，是做人设，以及让别人做自己。
 
                         GD、甚至ladygaga这些，是做自己，以及让别人做自己。
-
+<img class="img loading" src="http://p9.pstatp.com/large/5e7200016f71d0b9a44f" alt="让妹子疯狂尖叫的权志龙、GD为什么这么火？直男们都看看吧" data-was-processed="true">
 
 
                    即便所有男明星都在穿的正常款，也能靠搭配和个人气场脱颖而出。
 
 
               也让我们看到，时尚也就这么回事，不过是在万般难为情中，成就更好的自己罢了。
-
+<img src="https://p2.ssl.cdn.btime.com/t01511732b0a1c5e249.jpg?size=600x750">
                                    直到今天为止，GD是时尚的啊。
 
               也是靠着这种GD式时尚，被时尚、潮流圈都认可，被娱乐圈明星跟风，带货力也稳居最前。
