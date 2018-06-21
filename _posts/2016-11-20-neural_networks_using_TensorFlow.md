@@ -91,26 +91,33 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
  **还有谁**，服不服？？？
 
 ###  有一种时尚叫GD！权志龙入伍！可惜了他的那些非主流时尚了~
-
+ <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/df7e89bb129442359a258eb051822d9f.jpeg" max-width="600">
+ <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/f906567698554ed8b2565cd1389cb03c.jpeg" max-width="600">
+ <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/03e3f0fd5dff4869bc348e2878dfd711.gif" max-width="600"> 
+ <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/ea3fd84ccb1f450da90ef35d0b551b7b.jpeg" max-width="600" class="__web-inspector-hide-shortcut__">
+ <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/7f4e2391795e41f7850cf3082879659f.jpeg" max-width="600">
+ <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/f3c55b05087442ff9850088bbdc61100.jpeg" max-width="600">
+ <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/e66e324d9b344ba698ad0b24666dbb42.jpeg" max-width="600"> 
+ <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/fd0550528e2b410dbd1d92580d10bf19.jpeg" max-width="600">
 　　              一去就是3年，看不到他的非主流时尚，看不见他的笑，这让我们怎么能睡得着~
                                            ▼
 			              从杀马特走起
-  <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/df7e89bb129442359a258eb051822d9f.jpeg" max-width="600">
-  <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/f906567698554ed8b2565cd1389cb03c.jpeg" max-width="600">
+
+  
 　        太刻意表现自己的时尚，只顾把自己穿的很满，甚至没有规避自己矮、身材比例不够好的缺点。
 
-                                   所以给人感觉是用力过猛**
+                                   所以给人感觉是用力过猛
 
                                        就有了装时尚不成，
 
                                   反而成了与杀马特毗邻的非主流。
- <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/e3e728cf7f0b4222b15ec0fa6aea8f24.gif" max-width="600">
+ 
                    也有一些不被人所读懂，但是却很狂很拽很酷很炫，很超脱的highfashion搭配。
-  <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/03e3f0fd5dff4869bc348e2878dfd711.gif" max-width="600">
+ 
                                      好了好了，进入正题！
 
                                   我们还是来看看GD的时尚吧！
-<img src="//5b0988e595225.cdn.sohucs.com/images/20180109/ea3fd84ccb1f450da90ef35d0b551b7b.jpeg" max-width="600" class="__web-inspector-hide-shortcut__">
+
                                          你有没有发现，
 
                                      GD并不是一直就时尚。
@@ -118,7 +125,7 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
 				         你有没有发现，
 
                                    GD的这些时尚，很难去定义。
-<img src="//5b0988e595225.cdn.sohucs.com/images/20180109/7f4e2391795e41f7850cf3082879659f.jpeg" max-width="600">
+
         GD个人风格很重，对普通大众并没有参考意义。而看不懂的，也是这些求个大众都在穿的衣服穿的，够安全就行的普通大众。
 
                                   这就是做自己和做别人的区别。
@@ -127,13 +134,13 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
 
                         GD、甚至ladygaga这些，是做自己，以及让别人做自己。
 
-<img src="//5b0988e595225.cdn.sohucs.com/images/20180109/f3c55b05087442ff9850088bbdc61100.jpeg" max-width="600">
+
 
                    即便所有男明星都在穿的正常款，也能靠搭配和个人气场脱颖而出。
 
-<img src="//5b0988e595225.cdn.sohucs.com/images/20180109/e66e324d9b344ba698ad0b24666dbb42.jpeg" max-width="600"> 
+
               也让我们看到，时尚也就这么回事，不过是在万般难为情中，成就更好的自己罢了。
-<img src="//5b0988e595225.cdn.sohucs.com/images/20180109/fd0550528e2b410dbd1d92580d10bf19.jpeg" max-width="600">
+
                                    直到今天为止，GD是时尚的啊。
 
               也是靠着这种GD式时尚，被时尚、潮流圈都认可，被娱乐圈明星跟风，带货力也稳居最前。
