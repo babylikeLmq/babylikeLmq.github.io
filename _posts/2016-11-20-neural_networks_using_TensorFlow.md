@@ -85,20 +85,24 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
  **- 永远是VIP**
 ### <a name="A-typical-flow"></a>gd依然吊打小鲜肉？数据了解一下
 　<img src="https://pic3.zhimg.com/v2-5b76699fd9f84f35c257b93295409896_r.jpg" class="ImageView-img" alt="preview" style="width: 654px; transform: translate3d(613px, 304.992px, 0px) scale3d(1.10092, 1.10092, 1); opacity: 1;">
+ 
  <img src="https://pic4.zhimg.com/80/v2-94d73799de03da5796d3f55de596c3b3_hd.jpg" data-rawwidth="720" data-rawheight="288" class="origin_image zh-lightbox-thumb lazy" width="720" data-original="https://pic4.zhimg.com/v2-94d73799de03da5796d3f55de596c3b3_r.jpg" data-actualsrc="https://pic4.zhimg.com/v2-94d73799de03da5796d3f55de596c3b3_b.jpg">
+ 
  <img src="https://pic4.zhimg.com/80/1d3fa299e54560958646feaf422fad43_hd.png" data-rawwidth="984" data-rawheight="1749" class="origin_image zh-lightbox-thumb lazy" width="984" data-original="https://pic4.zhimg.com/1d3fa299e54560958646feaf422fad43_r.jpg" data-actualsrc="https://pic4.zhimg.com/1d3fa299e54560958646feaf422fad43_b.png">
 
  **还有谁**，服不服？？？
 
 ###  有一种时尚叫GD！权志龙入伍！可惜了他的那些非主流时尚了~
 <img src="https://p2.ssl.cdn.btime.com/t01511732b0a1c5e249.jpg?size=600x750">
+
 <img class="img loading" src="http://p9.pstatp.com/large/5e7200016f71d0b9a44f" alt="让妹子疯狂尖叫的权志龙、GD为什么这么火？直男们都看看吧" data-was-processed="true">
-<img alt="巴黎时装周GD权志龙亮相" src="//p.nanrenwo.net/uploads/allimg/160623/8449-1606231G403.jpg" title="巴黎时装周GD权志龙亮相"> 
-　　              一去就是3年，看不到他的非主流时尚，看不见他的笑，这让我们怎么能睡得着~				
+
+<img alt="巴黎时装周GD权志龙亮相" src="//p.nanrenwo.net/uploads/allimg/160623/8449-1606231G403.jpg" title="巴黎时装周GD权志龙亮相">　  		
 <img class="img loading" src="http://p3.pstatp.com/large/5e750000db51765ce91a" alt="让妹子疯狂尖叫的权志龙、GD为什么这么火？直男们都看看吧" data-was-processed="true">
-  
-　        太刻意表现自己的时尚，只顾把自己穿的很满，甚至没有规避自己矮、身材比例不够好的缺点。
-### <img src="http://n.sinaimg.cn/ent/4_img/uplaod/893e0c02/20171004/eS1z-fymkwwk8286482.jpg" o-width="950" o-height="1424" style="width: 950px; height: 1424px;">
+　        
+<img src="http://n.sinaimg.cn/ent/4_img/uplaod/893e0c02/20171004/eS1z-fymkwwk8286482.jpg" o-width="950" o-height="1424" style="width: 950px; height: 1424px;">
+                        一去就是3年，看不到他的非主流时尚，看不见他的笑，这让我们怎么能睡得着~
+		  太刻意表现自己的时尚，只顾把自己穿的很满，甚至没有规避自己矮、身材比例不够好的缺点。
                                    所以给人感觉是用力过猛
 
                                        就有了装时尚不成，
