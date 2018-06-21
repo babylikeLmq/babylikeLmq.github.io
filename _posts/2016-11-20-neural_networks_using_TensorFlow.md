@@ -91,6 +91,11 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
  **还有谁**，服不服？？？
 
 ###  有一种时尚叫GD！权志龙入伍！可惜了他的那些非主流时尚了~
+<img src="https://p2.ssl.cdn.btime.com/t01511732b0a1c5e249.jpg?size=600x750">
+<img class="img loading" src="http://p9.pstatp.com/large/5e7200016f71d0b9a44f" alt="让妹子疯狂尖叫的权志龙、GD为什么这么火？直男们都看看吧" data-was-processed="true">
+<img alt="巴黎时装周GD权志龙亮相" src="//p.nanrenwo.net/uploads/allimg/160623/8449-1606231G403.jpg" title="巴黎时装周GD权志龙亮相">
+ [weibo](https://weibo.com/login.php) 
+ [bilibili](https://www.bilibili.com/)  
 
 　　              一去就是3年，看不到他的非主流时尚，看不见他的笑，这让我们怎么能睡得着~				
 <img class="img loading" src="http://p3.pstatp.com/large/5e750000db51765ce91a" alt="让妹子疯狂尖叫的权志龙、GD为什么这么火？直男们都看看吧" data-was-processed="true">
@@ -135,12 +140,6 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
                                    直到今天为止，GD是时尚的啊。
 
               也是靠着这种GD式时尚，被时尚、潮流圈都认可，被娱乐圈明星跟风，带货力也稳居最前。
-### 参考资源
-<img src="https://p2.ssl.cdn.btime.com/t01511732b0a1c5e249.jpg?size=600x750">
-<img class="img loading" src="http://p9.pstatp.com/large/5e7200016f71d0b9a44f" alt="让妹子疯狂尖叫的权志龙、GD为什么这么火？直男们都看看吧" data-was-processed="true">
-<img alt="巴黎时装周GD权志龙亮相" src="//p.nanrenwo.net/uploads/allimg/160623/8449-1606231G403.jpg" title="巴黎时装周GD权志龙亮相">
- [weibo](https://weibo.com/login.php) 
- [bilibili](https://www.bilibili.com/)  
 
 ### 关于原文
 
