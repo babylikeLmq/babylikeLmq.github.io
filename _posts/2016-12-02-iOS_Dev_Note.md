@@ -34,8 +34,7 @@ tag:
 
 ### 长得好看的人撒起娇真的是心都化了     
 <img class="column-gif" role="presentation" src="https://pic1.zhimg.com/v2-1b7ad85a23dabb7c28aa56bf5f138498_b.gif" data-thumbnail="https://pic1.zhimg.com/v2-1b7ad85a23dabb7c28aa56bf5f138498_b.jpg">
-描述: 用来控制断点是否生效,关闭此功能，打包 `.ipa` 时，包体积会小很多。    
-配置路径:【project/TARGETS/Build Settings/Apple LLVM7.1 - Code Genneration/Generate Debug Symbols】    
+    
 
 
 ### 颜的巅峰
