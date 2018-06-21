@@ -25,10 +25,9 @@ tag:
 
 2018年1月4日，根据Gaon Chart公开的周间流媒数据，《REALLY REALLY》的音源累计播放量突破了一亿次，成为2017年发布歌曲的男女组合中唯一一个在榜播放量突破一亿的组合。[16]1月10日，WINNER出席第32届金唱片奖颁奖礼，获得该届金唱片奖音源部门本奖。乐队于2018年4月4日回归，时隔4年再发正规专辑。[1]
 ### 
+<img class="lb_mainimg" unselectable="on" alt="" data-link="http://enews.tw/article/931446" data-imgid="db5fafae020d69565a52dfb269fda6e3" data-src="http://p1.so.qhimgs1.com/t01865a6b9aa07a67b1.jpg" src="http://api.wownews.tw/attachments/558fd617913b0c11001d003d/2017/10/26/c8ab1d50417019cff502f2a52bea3c08.jpg" style="top: 0px; opacity: 1; width: 445.465px; height: 287px; left: 0px;">
 
 
-
-<img src="https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=winner%E6%B5%B7%E6%8A%A5%E5%9B%9B%E4%BA%BA&step_word=&hs=0&pn=0&spn=0&di=154741886751&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1157303081%2C2855827429&os=1148005327%2C1230117964&simid=0%2C0&adpicid=0&lpn=0&ln=1965&fr=&fmq=1529582579548_R&fm=rs1&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=winner%E7%94%B5%E8%84%91%E5%A3%81%E7%BA%B8&objurl=http%3A%2F%2Ftva3.sinaimg.cn%2Fcrop.0.0.2996.1687%2F90eb2137ly1fi8sb4wce2j22bc1avx6p.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fojtk5_z%26e3Bv54AzdH3FrAzdH3F8aacacc9l8nl0cnbAzdH3Fi54j%3Fu654%3Drw2j_8aacac%26451%3DTAB&gsm=0&rpstart=0&rpnum=0&islist=&querylist=" height="500" width="600">  
 
 ###
 
