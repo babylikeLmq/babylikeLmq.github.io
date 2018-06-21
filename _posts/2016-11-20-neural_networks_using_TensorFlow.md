@@ -91,18 +91,11 @@ GDragon和权志龙感觉是两个人，哈哈，他们给人的感觉是不一�
  **还有谁**，服不服？？？
 
 ###  有一种时尚叫GD！权志龙入伍！可惜了他的那些非主流时尚了~
- <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/df7e89bb129442359a258eb051822d9f.jpeg" max-width="600">
- <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/f906567698554ed8b2565cd1389cb03c.jpeg" max-width="600">
- <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/03e3f0fd5dff4869bc348e2878dfd711.gif" max-width="600"> 
- <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/ea3fd84ccb1f450da90ef35d0b551b7b.jpeg" max-width="600" class="__web-inspector-hide-shortcut__">
- <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/7f4e2391795e41f7850cf3082879659f.jpeg" max-width="600">
- <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/f3c55b05087442ff9850088bbdc61100.jpeg" max-width="600">
- <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/e66e324d9b344ba698ad0b24666dbb42.jpeg" max-width="600"> 
- <img src="//5b0988e595225.cdn.sohucs.com/images/20180109/fd0550528e2b410dbd1d92580d10bf19.jpeg" max-width="600">
+
 　　              一去就是3年，看不到他的非主流时尚，看不见他的笑，这让我们怎么能睡得着~
                                            ▼
 			              从杀马特走起
-
+<img class="img loading" src="http://p3.pstatp.com/large/5e750000db51765ce91a" alt="让妹子疯狂尖叫的权志龙、GD为什么这么火？直男们都看看吧" data-was-processed="true">
   
 　        太刻意表现自己的时尚，只顾把自己穿的很满，甚至没有规避自己矮、身材比例不够好的缺点。
 
