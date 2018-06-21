@@ -27,7 +27,7 @@ G-DRAGON（权志龙、권지용），1988年8月18日出生于韩国首尔，�
 
 <div align="center">
 	<img class="lb_mainimg" unselectable="on" alt="" data-link="http://www.win4000.com/wallpaper_detail_129642.html" data-imgid="5912300835d7598eb9ada2236466acfa" data-src="http://p3.so.qhimgs1.com/t0187ac16044f19f433.jpg" src="http://pic1.win4000.com/wallpaper/c/593a4259d8ea6.jpg" style="top: 0px; opacity: 1; width: 595.2px; height: 372px; left: 0px;">
-        <img class="lb_mainimg" unselectable="on" alt="" data-link="http://www.win4000.com/wallpaper_big_104369.html" data-imgid="7cf176829c67771e2439cb5b00330038" data-src="http://p0.so.qhimgs1.com/t01edc6018eea86991c.jpg" src="http://pic1.win4000.com/wallpaper/b/573bd4339c4ce.jpg" style="top: 0px; opacity: 1; width: 643.2px; height: 402px; left: 0px;">
+       
 </div> 
 
 
