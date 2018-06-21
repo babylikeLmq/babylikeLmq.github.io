@@ -10,7 +10,7 @@ tag:
 2014年8月14日发行首张正规专辑《2014 S/S》；8月17日通过《SBS人气歌谣》正式出道；9月10日发行专辑《2014 S/S-Japan Collection-》在日本出道。2016年2月1日发布迷你专辑《EXIT:E》。11月18日，南太铉因心理健康问题与经纪公司商讨后决定解除合约、退队。2017年4月4日，发行专辑《FATE NUMBER FOR》；8月4日发布专辑《OUR TWENTY FOR》。2018年1月，获得第32届金唱片奖音源部门本奖。乐队于2018年4月4日回归，时隔4年再发正规专辑。
 ### 基本信息
 现任成员 :	金振宇	李胜勋	宋闵浩	南泰铉	姜胜允
-<img class="lb_mainimg" unselectable="on" alt="" data-link="http://star.ettoday.net/news/982254" data-imgid="a8edd0a62eca86de85ffde0b2fac54e6" data-src="http://p0.so.qhmsg.com/t01a50250dc59d021ef.jpg" src="http://cdn2.ettoday.net/images/2707/d2707705.jpg" style="top: 0px; opacity: 1; width: 518.675px; height: 287px; left: 0px;">
+<img class="lb_mainimg" unselectable="on" alt="" data-link="http://star.ettoday.net/news/982254" data-imgid="a8edd0a62eca86de85ffde0b2fac54e6" data-src="http://p0.so.qhmsg.com/t01a50250dc59d021ef.jpg" src="http://cdn2.ettoday.net/images/2707/d2707705.jpg" style="top: 0px; opacity: 1; width: 445.465px; height: 287px; left: 0px;">
 ### 演艺经历
 
 　2013年8月23日，参加《WIN：WHOISNEXT》节目中与同公司练习生分为A队、B队展开对决。[2]10月25日，WINNER成员所在A组取得最终的胜利，获得出道的资格，并约定于2014年以WINNER的组合名正式出道。12月13日，WINNER首支真人秀节目《winnertv》通过Mnet首播。[20]
