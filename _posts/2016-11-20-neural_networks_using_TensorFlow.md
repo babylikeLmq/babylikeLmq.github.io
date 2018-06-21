@@ -4,7 +4,7 @@ title: G-DRAGON
 date: 2016-11-20 
 tags:   
 ---
-<img class="lb_mainimg" unselectable="on" alt="" data-link="http://www.win4000.com/wallpaper_big_104369.html" data-imgid="7cf176829c67771e2439cb5b00330038" data-src="http://p0.so.qhimgs1.com/t01edc6018eea86991c.jpg" src="http://pic1.win4000.com/wallpaper/b/573bd4339c4ce.jpg" style="top: 0px; opacity: 1; width: 643.2px; height: 402px; left: 0px;">
+
 <img src="https://pic1.zhimg.com/80/v2-46a03776f912ce5d877179be2ffb8ed4_hd.jpg" data-rawwidth="3240" data-rawheight="1080" class="origin_image zh-lightbox-thumb lazy" width="3240" data-original="https://pic1.zhimg.com/v2-46a03776f912ce5d877179be2ffb8ed4_r.jpg" data-actualsrc="https://pic1.zhimg.com/v2-46a03776f912ce5d877179be2ffb8ed4_b.jpg">
 <img src="https://pic1.zhimg.com/80/v2-204cad8962e7762dd29f9b9d076d9acc_hd.jpg" data-rawwidth="3240" data-rawheight="1080" class="origin_image zh-lightbox-thumb lazy" width="3240" data-original="https://pic1.zhimg.com/v2-204cad8962e7762dd29f9b9d076d9acc_r.jpg" data-actualsrc="https://pic1.zhimg.com/v2-204cad8962e7762dd29f9b9d076d9acc_b.jpg">
 <img src="https://pic1.zhimg.com/80/v2-730c79a5d2ed775109bcb22e78142630_hd.jpg" data-rawwidth="3240" data-rawheight="1080" class="origin_image zh-lightbox-thumb lazy" width="3240" data-original="https://pic1.zhimg.com/v2-730c79a5d2ed775109bcb22e78142630_r.jpg" data-actualsrc="https://pic1.zhimg.com/v2-730c79a5d2ed775109bcb22e78142630_b.jpg">
@@ -27,7 +27,7 @@ G-DRAGON（权志龙、권지용），1988年8月18日出生于韩国首尔，�
 
 <div align="center">
 	<img class="lb_mainimg" unselectable="on" alt="" data-link="http://www.win4000.com/wallpaper_detail_129642.html" data-imgid="5912300835d7598eb9ada2236466acfa" data-src="http://p3.so.qhimgs1.com/t0187ac16044f19f433.jpg" src="http://pic1.win4000.com/wallpaper/c/593a4259d8ea6.jpg" style="top: 0px; opacity: 1; width: 595.2px; height: 372px; left: 0px;">
-
+        <img class="lb_mainimg" unselectable="on" alt="" data-link="http://www.win4000.com/wallpaper_big_104369.html" data-imgid="7cf176829c67771e2439cb5b00330038" data-src="http://p0.so.qhimgs1.com/t01edc6018eea86991c.jpg" src="http://pic1.win4000.com/wallpaper/b/573bd4339c4ce.jpg" style="top: 0px; opacity: 1; width: 643.2px; height: 402px; left: 0px;">
 </div> 
 
 
