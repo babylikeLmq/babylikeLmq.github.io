@@ -21,6 +21,7 @@ tag:
 </li></ul>
 ### 基本信息
 现任成员 :	金振宇	李胜勋	宋闵浩	南泰铉	姜胜允
+<img class="lb_mainimg" unselectable="on" alt="" data-link="http://star.ettoday.net/news/982254" data-imgid="a8edd0a62eca86de85ffde0b2fac54e6" data-src="http://p0.so.qhmsg.com/t01a50250dc59d021ef.jpg" src="http://cdn2.ettoday.net/images/2707/d2707705.jpg" style="top: 0px; opacity: 1; width: 518.675px; height: 287px; left: 0px;">
 ### 演艺经历
 
 　2013年8月23日，参加《WIN：WHOISNEXT》节目中与同公司练习生分为A队、B队展开对决。[2]10月25日，WINNER成员所在A组取得最终的胜利，获得出道的资格，并约定于2014年以WINNER的组合名正式出道。12月13日，WINNER首支真人秀节目《winnertv》通过Mnet首播。[20]
@@ -30,7 +31,7 @@ tag:
 2015年1月10日至24日，WINNER在北京、上海、深圳举行粉丝见面会，1月10日的北京粉丝见面会是他们出道以来第一次单独活动。9月6日至10月25日，WINNER在日本的东京、大阪等10个城市举行巡演。[7]
 
 2016年初，WINNER回归乐坛，宣布发行迷你专辑《EXIT：E》，专辑歌曲皆由成员创作，YG梁铉锡代表亲自策划专辑的宣传预热活动。[8]1月11日，成员宋闵浩和南太铉演唱的《PRICKED》作为专辑的先行曲公开音源。2月1日，迷你专辑《EXIT：E》正式公布音源，当天，主打歌之一《SENTIMENTAL》登上Mnet榜冠军，另一支主打歌《BABY BABY》则在Melon、GENIE Music、olleh Music等音乐榜排名第一[9]。2月14日，《EXIT：E》的数码版在日本发行。3月12日、13日，WINNER在首尔奥林匹克公园体操竞技场举行首次单独演唱会“WINNER EXIT TOUR IN SEOUL”，并以此为起点，在光州、大邱、釜山举行全国巡演，向歌迷展示了组合的各成员一年多来在各方面的成长。[10]4月23日，YG Entertainment与JTBC联手为WINNER量身打造的12集真人秀节目《半月朋友》开播，同时在中国视频平台播出。该节目呈现了WINNER男团的五位成员和一群4-7岁孩子们在半月时间内相处并慢慢建立感情成为朋友的过程。《半月朋友》上线两个多月后微博话题阅读量突破4亿，在中国的视频平台的节目总点击播放量超过1亿次[11]。10月12日，YG娱乐公司宣布WINNER成员南太铉因心理疾患加重无法进行演艺活动，故公司决定全面中止WINNER的所有活动，并无限期推迟WINNER的回归。11月18日，南太铉与YG娱乐公司解除合约，YG宣布WINNER此后以4人形式活动。[12]
-
+<img class="lb_mainimg" unselectable="on" alt="" data-link="http://dy.163.com/v2/article/detail/D16LFOUT0517853O.html" data-imgid="c70065ed55ec5fc91ecc92e373f818ad" data-src="http://p2.so.qhimgs1.com/t01b06b657be6e221e2.jpg" src="http://crawl.nosdn.127.net/c94df23b73229ed616cc6b6c1b42f462/cc7f4539519a36e27a7dd8a23478cca6.jpg" style="top: 0px; opacity: 1; width: 416.445px; height: 287px;">
 2017年4月4日，发行专辑《FATE NUMBER FOR》，专辑收录《FOOL》和《Really Really》两首歌曲，其中《Really Really》是一首轻快舞曲[13]。4月8日，出道后WINNER首次参加音乐节目《音乐中心》，正式回归乐坛。《FATE NUMBER FOR》获得“iTunes专辑榜单”二十一个地区第一名并进入了APPLE MUSIC ‘Best of the Week’。 5月31日《FATE NUMBER FOR》在日本发行，这标志着WINNER正式进军日本市场[14]。8月4日发布专辑《OUR TWENTY FOR》。该专辑的主打歌为《LOVE ME LOVE ME》和《ISLAND》。《ISLAND》是以“岛”主题的Tropical风格舞曲，姜昇润、宋旻浩、李昇勋参与了作词，姜昇润还与YG制作人FUTURE BOUNCE、Bekuh BOOM一同参与作曲。11月7日，全体参与的tvN电视台综艺节目《花样青春 WINNER篇》首播。[15]
 
 2018年1月4日，根据Gaon Chart公开的周间流媒数据，《REALLY REALLY》的音源累计播放量突破了一亿次，成为2017年发布歌曲的男女组合中唯一一个在榜播放量突破一亿的组合。[16]1月10日，WINNER出席第32届金唱片奖颁奖礼，获得该届金唱片奖音源部门本奖。乐队于2018年4月4日回归，时隔4年再发正规专辑。[1]
@@ -43,7 +44,7 @@ tag:
 
 在操作过程或者文章有问题的话欢迎在 [原文](http://baixin.io/2017/01/iOS_Wifilist/) 里提问或指正。
 
->* 使用 Demo 我就不提供了，你如果没有申请 NetworkExtension 权限，提供了 Demo 你也无法使用。
+>* 喜欢爱豆就点个赞，收藏，帮忙转发哦！！！
 
 <br>
 
