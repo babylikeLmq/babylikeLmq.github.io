@@ -18,8 +18,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   line-height: 1; 
-<img src="/images/background-c.jpg" height="100%" width="100%"/>  
-</div>
+ style="background-image: url(d:\image\石家庄.jpg) no-repeat 50% 0;">
 }
 
 ol, ul {
