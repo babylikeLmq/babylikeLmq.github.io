@@ -18,9 +18,8 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   line-height: 1; 
-background-image:url(/images/background-c.jpg);
-background-position: center center ; 
-background-repeat:no-repeat; 
+background: url(images/background-c.jpg) no-repeat; 
+background-size: 100%;
 }
 
 ol, ul {
